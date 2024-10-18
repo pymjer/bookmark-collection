@@ -1,3 +1,4 @@
+- [LLM x 书签收藏](https://nekonull.me/posts/llm_x_bookmark/) 使用LLM生成文档摘要 #ai
 - [Moonshot AI 开放平台](https://platform.moonshot.cn/docs/intro) AI 工具 #ai
 - [百度一下，你就知道](https://www.baidu.com/) #tools
 - [剑桥词典：英语-中文(简体)翻译](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/) 翻译工具 #tools
