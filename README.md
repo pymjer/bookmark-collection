@@ -1,3 +1,4 @@
+- [Flink窗口函数](https://nightlies.apache.org/flink/flink-docs-release-1.20/zh/docs/dev/table/sql/queries/window-tvf/) Flink窗口函数使用 #bigdata
 - [GH Archive](https://www.gharchive.org/) 记录Github项目时间线 #tools
 - [蚂蚁金服开源 SOFAJRaft 详解](https://www.sofastack.tech/blog/sofa-jraft-deep-dive/) Raft生产级高性能 Java 实现 #tech
 - [LLM x 书签收藏](https://nekonull.me/posts/llm_x_bookmark/) 使用LLM生成文档摘要 #ai
