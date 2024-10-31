@@ -1,3 +1,4 @@
+- [TiCDC 简介](https://docs.pingcap.com/zh/tidb/stable/ticdc-overview) 使用TiCDC 实现流式计算 #bigdata
 - [当 TiDB 与 Flink 相结合：高效、易用的实时数仓](https://xie.infoq.cn/article/ae647442a9c5b8d7d9cc3b10b) #bigdata
 - [基于Flink搭建流式湖仓OpenLake方案](https://help.aliyun.com/zh/flink/) #bigdata
 - [分布式一致性 Raft 与 JRaft · SOFAStack](https://www.sofastack.tech/projects/sofa-jraft/consistency-raft-jraft/) #tech
