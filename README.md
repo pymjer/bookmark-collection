@@ -1,3 +1,4 @@
+- [Show Me！成为扣子模板创作人，50万奖金、iPhone 16 Pro Max 等你来拿！｜扣子×1024程序员节](https://mp.weixin.qq.com/s/CRxT9UTuD1dH53ePwi-_Zw)
 - [uv: Python packaging in Rust](https://astral.sh/blog/uv)
 - [如何构建你的第一个 Python 包](https://www.freecodecamp.org/chinese/news/build-your-first-python-package/)
 - [fastai/nbdev](https://github.com/fastai/nbdev) #tools
