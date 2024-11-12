@@ -1,3 +1,4 @@
+- [uv: Python packaging in Rust](https://astral.sh/blog/uv)
 - [如何构建你的第一个 Python 包](https://www.freecodecamp.org/chinese/news/build-your-first-python-package/)
 - [fastai/nbdev](https://github.com/fastai/nbdev) #tools
 - [Convert Markdown Table to Excel Online](https://tableconvert.com/markdown-to-excel) #tools
