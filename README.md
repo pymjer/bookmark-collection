@@ -1,3 +1,4 @@
+- [URL Parser - Translate a URL into an LLM-compatible input.](https://www.urlparser.online/) #tools
 - [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
 - [Show Me！成为扣子模板创作人，50万奖金、iPhone 16 Pro Max 等你来拿！｜扣子×1024程序员节](https://mp.weixin.qq.com/s/CRxT9UTuD1dH53ePwi-_Zw)
 - [uv: Python packaging in Rust](https://astral.sh/blog/uv)
