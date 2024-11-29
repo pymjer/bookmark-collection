@@ -1,3 +1,4 @@
+- [智算中心太“多”，大模型不够用了 | 钛媒体深度](https://mp.weixin.qq.com/s/Mpy-AbQmu5y2PLXfyNxkFw)
 - [DolphinScheduler 认证方式](https://dolphinscheduler.apache.org/zh-cn/docs/3.2.2/guide/security/authentication-type) #tech
 - [URL Parser - Translate a URL into an LLM-compatible input.](https://www.urlparser.online/) #tools
 - [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
