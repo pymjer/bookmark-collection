@@ -1,3 +1,4 @@
+- [大模型在华为推荐场景中的探索和应用](https://www.infoq.cn/article/ce3scr4bv5a4tfqqrht4) #ai
 - [华为诺亚解析：推荐系统的技术演进及大模型应用实践](https://mp.weixin.qq.com/s/4u7gBrsiXhOUa5ii6_yTLg) #ai
 - [智算中心太“多”，大模型不够用了 | 钛媒体深度](https://mp.weixin.qq.com/s/Mpy-AbQmu5y2PLXfyNxkFw)
 - [DolphinScheduler 认证方式](https://dolphinscheduler.apache.org/zh-cn/docs/3.2.2/guide/security/authentication-type) #tech
