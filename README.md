@@ -1,3 +1,4 @@
+- [腾讯云 ES：一站式 RAG 方案，开启智能搜索新时代](https://mp.weixin.qq.com/s/jGHmg2NwJ1IfiZMc79PwHg)
 - [中国信通院何宝宏：下一代数据治理](https://mp.weixin.qq.com/s/uFzfcElKgiYfyAWh3hIKVA)
 - [Quick Start - The Kubebuilder Book](https://book.kubebuilder.io/quick-start.html)
 - [大模型在华为推荐场景中的探索和应用](https://www.infoq.cn/article/ce3scr4bv5a4tfqqrht4) #ai
