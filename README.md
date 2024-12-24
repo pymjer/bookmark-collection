@@ -1,3 +1,4 @@
+- [从OpenAI 12天发布会里，我们看到了行业的四个关键问题](https://mp.weixin.qq.com/s/X14ZYASRnKjMqysIDqU75A)
 - [Docker Proxy Setting](https://docs.docker.com/desktop/settings-and-maintenance/settings/)
 - [腾讯云 ES：一站式 RAG 方案，开启智能搜索新时代](https://mp.weixin.qq.com/s/jGHmg2NwJ1IfiZMc79PwHg)
 - [中国信通院何宝宏：下一代数据治理](https://mp.weixin.qq.com/s/uFzfcElKgiYfyAWh3hIKVA)
