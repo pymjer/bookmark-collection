@@ -1,3 +1,4 @@
+- [Hugging Face 介绍](https://www.baihezi.com/post/990.html)
 - [接入 Xinference 部署的本地模型 | Dify](https://docs.dify.ai/zh-hans/development/models-integration/xinference)
 - [从OpenAI 12天发布会里，我们看到了行业的四个关键问题](https://mp.weixin.qq.com/s/X14ZYASRnKjMqysIDqU75A)
 - [Docker Proxy Setting](https://docs.docker.com/desktop/settings-and-maintenance/settings/)
