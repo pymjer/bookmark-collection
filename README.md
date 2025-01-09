@@ -1,3 +1,4 @@
+- [World Labs](https://www.worldlabs.ai/)
 - [编程十年的感悟](https://ramsayleung.github.io/zh/post/2024/%E7%BC%96%E7%A8%8B%E5%8D%81%E5%B9%B4%E7%9A%84%E6%84%9F%E6%82%9F/)
 - [我的几何人生](http://paper.people.com.cn/rmrb/pc/content/202412/21/content_30047414.html)
 - [Hugging Face 介绍](https://www.baihezi.com/post/990.html)
