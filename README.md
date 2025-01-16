@@ -1,3 +1,4 @@
+- [字节跳动与科大讯飞：大模型之战的AB面](https://mp.weixin.qq.com/s/OOO-LyKI8Hfdt2nGbOnu3Q)
 - [CoderSJX/AI-Resources-Central](https://github.com/CoderSJX/AI-Resources-Central)
 - [World Labs](https://www.worldlabs.ai/)
 - [编程十年的感悟](https://ramsayleung.github.io/zh/post/2024/%E7%BC%96%E7%A8%8B%E5%8D%81%E5%B9%B4%E7%9A%84%E6%84%9F%E6%82%9F/)
