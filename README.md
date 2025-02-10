@@ -1,3 +1,4 @@
+- [Climate Reanalyzer](https://climatereanalyzer.org/clim/t2_daily/?dm_id=world)
 - [字节跳动与科大讯飞：大模型之战的AB面](https://mp.weixin.qq.com/s/OOO-LyKI8Hfdt2nGbOnu3Q)
 - [CoderSJX/AI-Resources-Central](https://github.com/CoderSJX/AI-Resources-Central)
 - [World Labs](https://www.worldlabs.ai/)
