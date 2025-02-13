@@ -1,3 +1,4 @@
+- [Home — Dropwizard](https://www.dropwizard.io/en/stable/)
 - [Data Mesh Architecture](https://www.datamesh-architecture.com/)
 - [AI is Creating a Generation of Illiterate Programmers](https://nmn.gl/blog/ai-illiterate-programmers)
 - [Climate Reanalyzer](https://climatereanalyzer.org/clim/t2_daily/?dm_id=world)
