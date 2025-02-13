@@ -1,3 +1,4 @@
+- [Data Mesh Architecture](https://www.datamesh-architecture.com/)
 - [AI is Creating a Generation of Illiterate Programmers](https://nmn.gl/blog/ai-illiterate-programmers)
 - [Climate Reanalyzer](https://climatereanalyzer.org/clim/t2_daily/?dm_id=world)
 - [字节跳动与科大讯飞：大模型之战的AB面](https://mp.weixin.qq.com/s/OOO-LyKI8Hfdt2nGbOnu3Q)
