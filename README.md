@@ -1,3 +1,4 @@
+- [Why OpenMetadata is the Right Choice for you](https://blog.open-metadata.org/why-openmetadata-is-the-right-choice-for-you-59e329163cac)
 - [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 - [就是那一只蟋蟀](https://baike.baidu.com/item/%E5%B0%B1%E6%98%AF%E9%82%A3%E4%B8%80%E5%8F%AA%E8%9F%8B%E8%9F%80/10258960)
 - [Home — Dropwizard](https://www.dropwizard.io/en/stable/)
