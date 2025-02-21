@@ -1,3 +1,4 @@
+- [networks and deep learning](http://neuralnetworksanddeeplearning.com/chap1.html)
 - [DataHub: Popular metadata architectures explained](https://www.linkedin.com/blog/engineering/data-management/datahub-popular-metadata-architectures-explained)
 - [Why OpenMetadata is the Right Choice for you](https://blog.open-metadata.org/why-openmetadata-is-the-right-choice-for-you-59e329163cac)
 - [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
