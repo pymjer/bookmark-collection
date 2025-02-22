@@ -1,3 +1,4 @@
+- [aiquizzes - learn ai](https://aiquizzes.com/)
 - [networks and deep learning](http://neuralnetworksanddeeplearning.com/chap1.html)
 - [DataHub: Popular metadata architectures explained](https://www.linkedin.com/blog/engineering/data-management/datahub-popular-metadata-architectures-explained)
 - [Why OpenMetadata is the Right Choice for you](https://blog.open-metadata.org/why-openmetadata-is-the-right-choice-for-you-59e329163cac)
