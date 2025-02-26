@@ -1,3 +1,4 @@
+- [信用卡欺诈检测系统](https://fraud-detection-handbook.github.io/fraud-detection-handbook/Chapter_2_Background/FDS.html)
 - [aiquizzes - learn ai](https://aiquizzes.com/)
 - [networks and deep learning](http://neuralnetworksanddeeplearning.com/chap1.html)
 - [DataHub: Popular metadata architectures explained](https://www.linkedin.com/blog/engineering/data-management/datahub-popular-metadata-architectures-explained)
