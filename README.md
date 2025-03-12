@@ -1,3 +1,4 @@
+- [Residual Networks (ResNet) - Deep Learning - GeeksforGeeks](https://www.geeksforgeeks.org/residual-networks-resnet-deep-learning/)
 - [持续集成服务 Travis CI 教程](https://www.ruanyifeng.com/blog/2017/12/travis_ci_tutorial.html)
 - [双钻模型全方位解读与实战案例](https://www.zcool.com.cn/article/ZMTYyOTM4OA==.html?)
 - [无阈值指标](https://fraud-detection-handbook.github.io/fraud-detection-handbook/Chapter_4_PerformanceMetrics/ThresholdFree.html)
