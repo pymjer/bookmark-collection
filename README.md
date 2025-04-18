@@ -1,3 +1,4 @@
+- [管理方格理论](https://baike.baidu.com/item/%E7%AE%A1%E7%90%86%E6%96%B9%E6%A0%BC%E7%90%86%E8%AE%BA/3422337)
 - [On inheritance and subtyping](https://blog.frankel.ch/on-inheritance/)
 - [Residual Networks (ResNet) - Deep Learning - GeeksforGeeks](https://www.geeksforgeeks.org/residual-networks-resnet-deep-learning/)
 - [持续集成服务 Travis CI 教程](https://www.ruanyifeng.com/blog/2017/12/travis_ci_tutorial.html)
